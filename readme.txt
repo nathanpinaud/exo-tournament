@@ -7,7 +7,8 @@
 3 - Do commit & push each time a new test becomes green.
 4 - Keep in mind that this is a session to asses your coding skills : how you are doing stuff is as important as passing all the tests.
 
-You're not allowed to change a single character of the tests
+You're not allowed to change the tests.
+One can alway make mistakes... but this kata has been run litteraly hundreds of times. if something feels odd it's very unlikely that it would be coming from the exercise
 
 Good luck :D
 
